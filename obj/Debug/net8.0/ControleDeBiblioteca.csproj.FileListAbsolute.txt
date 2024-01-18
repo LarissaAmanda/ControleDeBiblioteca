@@ -1,0 +1,14 @@
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.AssemblyInfoInputs.cache
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.AssemblyInfo.cs
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.csproj.CoreCompileInputs.cache
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\bin\Debug\net8.0\ControleDeBiblioteca.exe
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\bin\Debug\net8.0\ControleDeBiblioteca.deps.json
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\bin\Debug\net8.0\ControleDeBiblioteca.runtimeconfig.json
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\bin\Debug\net8.0\ControleDeBiblioteca.dll
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\bin\Debug\net8.0\ControleDeBiblioteca.pdb
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.dll
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\refint\ControleDeBiblioteca.dll
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.pdb
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ControleDeBiblioteca.genruntimeconfig.cache
+D:\Projetos Larissa DIO\Portifolio\ControleDeBiblioteca\obj\Debug\net8.0\ref\ControleDeBiblioteca.dll
