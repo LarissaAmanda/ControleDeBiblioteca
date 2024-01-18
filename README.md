@@ -1,1 +1,50 @@
-# ControleDeBiblioteca
+# Biblioteca Console App
+
+Este é um programa simples em C# que simula as operações básicas de uma biblioteca. O programa utiliza um menu de console para interação com o usuário, permitindo o gerenciamento de livros, usuários e funcionários da biblioteca. Abaixo estão as principais funcionalidades e instruções de uso.
+
+## Funcionalidades:
+
+### 1. Menu Biblioteca:
+
+Adicionar livro: Adiciona um novo livro à biblioteca.
+Emprestar livro: Realiza o empréstimo de um livro a um usuário.
+Listar livros: Apresenta a lista de todos os livros disponíveis na biblioteca.
+Listar livros emprestados: Exibe a lista de livros atualmente emprestados.
+Procurar livros: Permite buscar livros por título.
+Remover livro: Remove um livro da biblioteca.
+Entregar livro: Registra a devolução de um livro.
+
+### 2. Menu Usuário:
+
+Cadastrar Usuário: Adiciona um novo usuário à base de dados.
+Listar Usuários: Exibe a lista de todos os usuários cadastrados.
+Remover Usuário: Remove um usuário da base de dados.
+
+### 3. Menu Funcionário:
+
+Cadastrar Funcionário: Adiciona um novo funcionário à base de dados.
+Listar Funcionários: Exibe a lista de todos os funcionários cadastrados.
+Remover Funcionário: Remove um funcionário da base de dados.
+
+### 4. Encerrar programa:
+
+Encerra a execução do programa.
+
+
+## Instruções de Uso:
+Ao iniciar o programa, o usuário verá um menu principal com opções numeradas.
+Selecione a opção desejada digitando o número correspondente e pressione Enter.
+Cada menu subsequente terá suas próprias opções numeradas, seguindo o mesmo padrão de seleção.
+Execute as operações desejadas e, ao final de cada ação, pressione uma tecla para retornar ao menu principal.
+Para encerrar o programa, selecione a opção "4" no menu principal.
+
+## Observações:
+Certifique-se de usar caracteres UTF-8 para melhor visualização dos textos.
+Caso uma opção inválida seja selecionada, o programa informará que a escolha é inválida.
+Nota: Este programa é uma aplicação de console simples e não persiste os dados após o encerramento. Os dados são mantidos apenas durante a execução do programa.
+
+O programa se encerrou. 
+
+Desenvolvido por: Larissa Amanda Tomaz
+
+Data de Criação: 18/01/2024
